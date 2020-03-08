@@ -1,0 +1,10 @@
+Package: me.conorthedev.infocell
+Name: InfoCell
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ConorTheDev <con0r.b@protonmail.com>
+Author: ConorTheDev <con0r.b@protonmail.com>
+Section: Tweaks
+Version: 0.0.1-101+debug
+Installed-Size: 208
